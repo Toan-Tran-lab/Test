@@ -19,6 +19,6 @@ bool ValidBrace(string s) {
 }
 
 int main () {
-    string s = "{()[()]()}";
+    string s = "{";
     cout << ValidBrace(s);
 }
