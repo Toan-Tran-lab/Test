@@ -34,7 +34,7 @@ int main() {
     Remove_Dups(pHead);
     Print(pHead);
     Print_Reverse(pHead);
-    cout << "\nDone";
+    cout << "\nDone!!";
     Delete_List(pHead);
     return 0;
 }
